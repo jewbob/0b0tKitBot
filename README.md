@@ -13,7 +13,7 @@ Step 1 - Paste the code into a new module in your Phobos skid
 
 Step 2 - Make sure there is a 1x2 space with a 3 block high roof for when your player jumps (look at the screenshot provided for help)
 
-Step 3 - On one of the 2x1 space on the floor make sure one has a pressure plate connected to a DROPPER (not dispenser) and the dropper is connected to your stash via hoppers
+Step 3 - On one of the 2x1 space on the floor make sure one of the blocks has a pressure plate and the other one is empty (you will be sent back to spawn due to your spawnpoint failing if you have both spaces with a pressure plate) connected to a DROPPER (not dispenser) and the dropper is connected to your stash via hoppers
 
 Step 4 - Fill your stash with the desired kits
 

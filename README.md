@@ -1,5 +1,6 @@
 # FB's 0b0t Kit Bot
  Automatic kit bot host for 0b0t.org
+ Possibly chinese code, made in like an hour and wasnt intended to be made public
  
 # Setting breakdown
 Password - The customisable string of text you would like people to type in chat, to request a kit.
